@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#outside{
+    width: 100%;
+    background-color: #dedede;
+}
+.task1_main{
+    background-color:#dedede;
+    width:100%;
+    margin-top: 0;
+}
+.task1_main_top{
+    width: 100%;
+    height: 60px;
+    background-color:#333333;
+}
+.task1_main_top_left{
+    float:left;
+    padding-left:15px;
+}
+.task1_main_top_right ul li{
+    list-style-type: square;
+    color:red;
+    display:block;
+    line-height: 60px;
+    width: 100px;
+    float:right;
+}
+.task1_main_top_right li a{
+    text-decoration: none;
+    color:white;
+}
+.task1_main_top_right ul li a:hover{
+    color:#7b7672;
+}
+.essay_left{
+    margin:20px 400px 0 0;
+}
+.easy_right{
+    position: absolute;top:80px;right:20px;
+    box-shadow: 1px 1px 1px black;
+    background-color:#ffffff;
+    width:360px;
+    height:450px;
+    overflow:hidden;
+    font-size: 14px;
+}
+p{margin:0 20px 0 20px;}
+h2,h3{
+    padding:30px 0 5px 20px;
+}
+h3{
+    color:#6f7374;
+}
+.essay_time{
+    color:#6f7374;
+}
+.essay_one,.essay_two,img{
+    margin-left: 20px;
+}
+.essay_one{
+    box-shadow: 1px 1px 1px black;
+    background-color:#ffffff;
+    min-height: 708px;
+}
+.essay_two{
+    box-shadow: 1px 1px 1px black;
+    margin-top:20px;
+    background-color:#ffffff;
+    min-height: 708px;
+}
+.essay_two ul li{
+    list-style-type: none;
+    padding-left:30px;
+}
+
+.essay_three{
+    box-shadow: 1px 1px 1px black;
+    background-color:#ffffff;
+    min-height: 500px;
+    margin:20px 0 0 20px;
+}
+.b_photo-1{
+    width:110px;
+    border: solid brown 1px ;
+    float:left;
+    margin:20px 0px 0 20px;
+}
+.b_photo-1 img{
+    margin: 5px;
+}
+.essay_four {
+    box-shadow: 1px 1px 1px black;
+    background-color:#ffffff;
+    height: 500px;
+    margin:20px 0 0 20px;
+}
+.essay_four li{
+    margin-left: 60px;
+}
+.tab_{
+    width:100%;
+    height:150px;
+}
+h4{
+    margin:20px 0 0 50px;
+}
+ .login-item {
+    padding:10px 0;
+    overflow:hidden;
+    clear:both;
+    line-height:25px;
+    padding:0px;
+}
+ .login-item label {
+    float:left;
+    text-align:right;
+    width:150px;
+}
+.login-item div {
+    float:left;
+    margin-left:15px;
+}
+.word p{
+    color:grey;
+    margin:10px 0 20px 168px;
+}
+#login-item_1{
+    margin-top: 20px;
+}
+#hand_up{
+    width:250px;
+    height:38px;
+    background-color:#3057cc;
+    border-radius:10px;
+}
+.hand_up{
+    margin: 20px 55px 20px 55px;
+    clear:left;
+}
+.copyright{
+    background-color:#000000;
+    color:snow;
+    width:100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius:5px;
+    margin-top:20px;}
